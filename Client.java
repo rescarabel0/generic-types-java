@@ -1,5 +1,3 @@
-package br.org.genericTypes;
-
 import java.time.LocalDate;
 
 public class Client {
