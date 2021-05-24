@@ -1,5 +1,3 @@
-package br.org.genericTypes;
-
 import java.util.List;
 
 public interface GenericDAO<T, K> {
