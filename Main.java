@@ -1,4 +1,3 @@
-package br.org.genericTypes;
 import java.time.LocalDate;
 import java.util.List;
 
